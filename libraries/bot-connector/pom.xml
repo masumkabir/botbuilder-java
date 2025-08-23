@@ -27,7 +27,7 @@
   <developers>
     <developer>
       <name>Bot Framework Development</name>
-      <email></email>
+      <email/>
       <organization>Microsoft</organization>
       <organizationUrl>https://dev.botframework.com/</organizationUrl>
     </developer>
@@ -99,7 +99,7 @@
     <dependency>
       <groupId>com.microsoft.azure</groupId>
       <artifactId>msal4j</artifactId>
-      <version>1.8.1</version>
+      <version>1.22.0</version>
     </dependency>
 
     <dependency>
