@@ -26,7 +26,7 @@
   <developers>
     <developer>
       <name>Bot Framework Development</name>
-      <email></email>
+      <email/>
       <organization>Microsoft</organization>
       <organizationUrl>https://dev.botframework.com/</organizationUrl>
     </developer>
@@ -56,7 +56,7 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
-      <version>2.4.0</version>
+      <version>3.4.9</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
@@ -72,12 +72,12 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <version>5.3.1</version>
+      <version>6.2.10</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot</artifactId>
-      <version>2.4.0</version>
+      <version>3.4.9</version>
       <scope>compile</scope>
     </dependency>
 
@@ -111,7 +111,7 @@
               <maxmem>256m</maxmem>
               <!-- aggregated reports for multi-module projects -->
               <aggregate>true</aggregate>
-              <check />
+              <check/>
             </configuration>
           </plugin>
         </plugins>
