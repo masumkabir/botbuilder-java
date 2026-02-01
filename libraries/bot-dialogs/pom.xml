@@ -27,7 +27,7 @@
   <developers>
     <developer>
       <name>Bot Framework Development</name>
-      <email></email>
+      <email/>
       <organization>Microsoft</organization>
       <organizationUrl>https://dev.botframework.com/</organizationUrl>
     </developer>
@@ -61,7 +61,7 @@
     <dependency>
       <groupId>com.azure</groupId>
       <artifactId>azure-storage-blob</artifactId>
-      <version>12.8.0</version>
+      <version>12.33.1</version>
     </dependency>
     <dependency>
       <groupId>com.microsoft.bot</groupId>
